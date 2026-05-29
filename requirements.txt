@@ -1,0 +1,2 @@
+# No external Python packages are required for this project.
+# The Hangman game uses only Python standard library modules.
